@@ -95,6 +95,7 @@ License
 This project is released under the MIT License.
 ________________________________________
 Credits
+
 •	Vosk Speech Recognition (https://alphacephei.com/vosk/)
 •	Termux and Termux:API (https://termux.com/)
 •	Community contributions on GitHub
